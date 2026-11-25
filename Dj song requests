@@ -367,8 +367,8 @@
     // =========================================================
     // 1. PASTE YOUR TWO KEYS HERE
     // =========================================================
-    const YOUTUBE_API_KEY = "PASTE_YOUR_YOUTUBE_API_KEY_HERE";
-    const APPS_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+    const YOUTUBE_API_KEY = "AIzaSyBAP8N8iYYGgwAWCNSjH9luXuRqkq3EUCE";
+    const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxfcRgoG0ODpMmfWF3AgBHs6L3OcLBW6ze_hs48WzKbDsCPmy-o-aEiGWE3__JWO8Jy/exec";
     // =========================================================
 
     const searchForm = document.getElementById("searchForm");
